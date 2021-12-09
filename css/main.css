@@ -1,0 +1,10 @@
+body{
+	border: 0px;
+	margin: 0px;
+}
+
+#gameArea{
+    position:absolute;
+    width:100%;
+    height:100%;
+}
